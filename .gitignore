@@ -1,0 +1,7 @@
+# IDE related files
+/.idea
+/.vscode
+
+
+# distribution files
+/cov
